@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.90c7618f.css",
-    "main.js": "/static/js/main.dcf70d94.js",
+    "main.js": "/static/js/main.5ff23fbe.js",
     "static/media/Nate_Grad16_BW.jpg": "/static/media/Nate_Grad16_BW.027789fb0cd11142b58b.jpg",
     "static/media/Nate_Grad_cropped.png": "/static/media/Nate_Grad_cropped.90f8194aad90222c7da1.png",
     "static/media/LMS.jpg": "/static/media/LMS.32acd64c49c268854c0e.jpg",
@@ -11,10 +11,10 @@
     "static/media/Stumblr.png": "/static/media/Stumblr.e81c29ebcd2e3e15629c.png",
     "index.html": "/index.html",
     "main.90c7618f.css.map": "/static/css/main.90c7618f.css.map",
-    "main.dcf70d94.js.map": "/static/js/main.dcf70d94.js.map"
+    "main.5ff23fbe.js.map": "/static/js/main.5ff23fbe.js.map"
   },
   "entrypoints": [
     "static/css/main.90c7618f.css",
-    "static/js/main.dcf70d94.js"
+    "static/js/main.5ff23fbe.js"
   ]
 }
